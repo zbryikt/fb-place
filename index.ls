@@ -17,12 +17,12 @@ main = ($scope, $http) ->
   map = new google.maps.Map document.getElementById(\map-node), map-option
   google.maps.event.addListenerOnce map, \idle, -> google.maps.event.trigger map, \resize
   $http do
-    url: \/count.json
+    url: \count.json
     method: \GET
   .success (c) ->
     console.log c
     $http do
-      url: \/starbucks.json
+      url: \starbucks.json
       method: \GET
     .success (d) ->
       console.log \ok

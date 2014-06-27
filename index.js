@@ -26,12 +26,12 @@ main = function($scope, $http){
     return google.maps.event.trigger(map, 'resize');
   });
   return $http({
-    url: '/count.json',
+    url: 'count.json',
     method: 'GET'
   }).success(function(c){
     console.log(c);
     return $http({
-      url: '/starbucks.json',
+      url: 'starbucks.json',
       method: 'GET'
     }).success(function(d){
       console.log('ok');
