@@ -1,0 +1,1096 @@
+{
+  "data": [
+    {
+      "category": "Local business", 
+      "category_list": [
+        {
+          "id": "128673187201735", 
+          "name": "Coffee Shop"
+        }
+      ], 
+      "location": {
+        "street": "台北市大安區忠孝東路四段134號", 
+        "city": "Taipei", 
+        "state": "", 
+        "country": "Taiwan", 
+        "zip": "106", 
+        "latitude": 25.041262102725, 
+        "longitude": 121.5481253573
+      }, 
+      "name": "Starbucks 忠孝敦化", 
+      "id": "190188951011986"
+    }, 
+    {
+      "category": "Local business", 
+      "category_list": [
+        {
+          "id": "2500", 
+          "name": "Local Business"
+        }
+      ], 
+      "location": {
+        "street": "", 
+        "city": "Taipei", 
+        "state": "", 
+        "country": "Taiwan", 
+        "zip": "106", 
+        "latitude": 25.0396419874, 
+        "longitude": 121.549298414
+      }, 
+      "name": "Starbucks星巴克(誠品敦南)", 
+      "id": "170987279674764"
+    }, 
+    {
+      "category": "Local business", 
+      "category_list": [
+        {
+          "id": "176831012360626", 
+          "name": "Professional Services"
+        }, 
+        {
+          "id": "128673187201735", 
+          "name": "Coffee Shop"
+        }
+      ], 
+      "location": {
+        "street": "台北市大安區忠孝東路四段134號(忠孝東路與敦化南路口)", 
+        "city": "Taipei", 
+        "state": "", 
+        "country": "Taiwan", 
+        "zip": "106", 
+        "latitude": 25.041071180181, 
+        "longitude": 121.54808305331
+      }, 
+      "name": "Starbucks 星巴克(龍門門市)", 
+      "id": "131144476954500"
+    }, 
+    {
+      "category": "Local business", 
+      "category_list": [
+        {
+          "id": "128673187201735", 
+          "name": "Coffee Shop"
+        }
+      ], 
+      "location": {
+        "street": "復興南路一段323號1樓(大安捷運站出口正對面)", 
+        "city": "Taipei", 
+        "state": "", 
+        "country": "Taiwan", 
+        "zip": "106", 
+        "latitude": 25.033416668764, 
+        "longitude": 121.54364441887
+      }, 
+      "name": "Starbucks 捷運大安站店", 
+      "id": "196865990338744"
+    }, 
+    {
+      "category": "Local business", 
+      "category_list": [
+        {
+          "id": "197871390225897", 
+          "name": "Cafe"
+        }, 
+        {
+          "id": "128673187201735", 
+          "name": "Coffee Shop"
+        }
+      ], 
+      "location": {
+        "street": "大安區忠孝東路四段201號", 
+        "city": "Taipei", 
+        "state": "", 
+        "country": "Taiwan", 
+        "zip": "106", 
+        "latitude": 25.041492111473, 
+        "longitude": 121.55142485358
+      }, 
+      "name": "Starbucks統領店", 
+      "id": "208169205864888"
+    }, 
+    {
+      "category": "Local business", 
+      "category_list": [
+        {
+          "id": "128673187201735", 
+          "name": "Coffee Shop"
+        }
+      ], 
+      "location": {
+        "street": "台北市延吉街175號", 
+        "city": "Taipei", 
+        "state": "", 
+        "country": "Taiwan", 
+        "zip": "106", 
+        "latitude": 25.039351816547, 
+        "longitude": 121.5517949339
+      }, 
+      "name": "Starbucks 星巴克 仁愛延吉門市", 
+      "id": "219993338190384"
+    }, 
+    {
+      "category": "Local business", 
+      "category_list": [
+        {
+          "id": "128673187201735", 
+          "name": "Coffee Shop"
+        }
+      ], 
+      "location": {
+        "street": "台北市大安區敦化南路一段245號B1", 
+        "city": "Taipei", 
+        "state": "", 
+        "country": "Taiwan", 
+        "zip": "", 
+        "latitude": 25.039641869138, 
+        "longitude": 121.54918887035
+      }, 
+      "name": "Starbucks Coffee統一星巴克 - 敦誠門市", 
+      "id": "472947696108501"
+    }, 
+    {
+      "category": "Local business", 
+      "category_list": [
+        {
+          "id": "128673187201735", 
+          "name": "Coffee Shop"
+        }
+      ], 
+      "location": {
+        "street": "", 
+        "city": "Taipei", 
+        "state": "", 
+        "country": "Taiwan", 
+        "zip": "106", 
+        "latitude": 25.0396434875, 
+        "longitude": 121.549284097
+      }, 
+      "name": "Starbucks敦誠門市", 
+      "id": "280121695433375"
+    }, 
+    {
+      "category": "Local business", 
+      "category_list": [
+        {
+          "id": "165679780146824", 
+          "name": "Food & Restaurant"
+        }
+      ], 
+      "location": {
+        "street": "", 
+        "city": "Taipei", 
+        "state": "", 
+        "country": "Taiwan", 
+        "zip": "106", 
+        "latitude": 25.0398711895, 
+        "longitude": 121.549462564
+      }, 
+      "name": "Starbucks統一星巴克-敦南誠品店", 
+      "id": "416522908406361"
+    }, 
+    {
+      "category": "Local business", 
+      "category_list": [
+        {
+          "id": "128673187201735", 
+          "name": "Coffee Shop"
+        }
+      ], 
+      "location": {
+        "street": "台北市延吉街175號一樓", 
+        "city": "Taipei", 
+        "state": "", 
+        "country": "Taiwan", 
+        "zip": "106", 
+        "latitude": 25.0383422338, 
+        "longitude": 121.555323925
+      }, 
+      "name": "Starbucks仁愛延吉門市", 
+      "id": "561420147287868"
+    }, 
+    {
+      "category": "Local business", 
+      "category_list": [
+        {
+          "id": "128673187201735", 
+          "name": "Coffee Shop"
+        }
+      ], 
+      "location": {
+        "street": "", 
+        "city": "Taipei", 
+        "state": "", 
+        "country": "Taiwan", 
+        "zip": "106", 
+        "latitude": 25.0324224723, 
+        "longitude": 121.554373873
+      }, 
+      "name": "Starbucks 星巴克通化門市", 
+      "id": "185601131606992"
+    }, 
+    {
+      "category": "Local business", 
+      "category_list": [
+        {
+          "id": "165679780146824", 
+          "name": "Food & Restaurant"
+        }
+      ], 
+      "location": {
+        "street": "", 
+        "city": "Taipei", 
+        "state": "", 
+        "country": "Taiwan", 
+        "zip": "", 
+        "latitude": 25.04040724167, 
+        "longitude": 121.54786348343
+      }, 
+      "name": "Starbucks", 
+      "id": "207818636015403"
+    }, 
+    {
+      "category": "Local business", 
+      "category_list": [
+        {
+          "id": "2500", 
+          "name": "Local Business"
+        }
+      ], 
+      "location": {
+        "street": "", 
+        "city": "Taipei", 
+        "state": "", 
+        "country": "Taiwan", 
+        "zip": "106", 
+        "latitude": 25.03924751, 
+        "longitude": 121.55109167
+      }, 
+      "name": "Starbucks(^O^)/", 
+      "id": "228924827157880"
+    }, 
+    {
+      "category": "Local business", 
+      "category_list": [
+        {
+          "id": "128673187201735", 
+          "name": "Coffee Shop"
+        }
+      ], 
+      "location": {
+        "street": "", 
+        "city": "Taipei", 
+        "state": "", 
+        "country": "Taiwan", 
+        "zip": "106", 
+        "latitude": 25.041575543117, 
+        "longitude": 121.5434364458
+      }, 
+      "name": "忠孝復興SOGO Starbucks", 
+      "id": "166413566744858"
+    }, 
+    {
+      "category": "Local business", 
+      "category_list": [
+        {
+          "id": "2500", 
+          "name": "Local Business"
+        }
+      ], 
+      "location": {
+        "street": "", 
+        "city": "Taipei", 
+        "state": "", 
+        "country": "Taiwan", 
+        "zip": "106", 
+        "latitude": 25.0425114963, 
+        "longitude": 121.5565047
+      }, 
+      "name": "Starbucks統一星巴克華視門市", 
+      "id": "363324680416973"
+    }, 
+    {
+      "category": "Local business", 
+      "category_list": [
+        {
+          "id": "128673187201735", 
+          "name": "Coffee Shop"
+        }
+      ], 
+      "location": {
+        "street": "", 
+        "city": "Taipei", 
+        "state": "", 
+        "country": "Taiwan", 
+        "zip": "106", 
+        "latitude": 25.0410500098, 
+        "longitude": 121.547150064
+      }, 
+      "name": "Starbucks 松山機場", 
+      "id": "161887350583298"
+    }, 
+    {
+      "category": "Local business", 
+      "category_list": [
+        {
+          "id": "2500", 
+          "name": "Local Business"
+        }
+      ], 
+      "location": {
+        "street": "", 
+        "city": "Taipei", 
+        "state": "", 
+        "country": "Taiwan", 
+        "zip": "", 
+        "latitude": 25.0407743, 
+        "longitude": 121.5490806
+      }, 
+      "name": "Starbucks 敦誠", 
+      "id": "142422652555720"
+    }, 
+    {
+      "category": "Local business", 
+      "category_list": [
+        {
+          "id": "273819889375819", 
+          "name": "Restaurant"
+        }, 
+        {
+          "id": "128673187201735", 
+          "name": "Coffee Shop"
+        }, 
+        {
+          "id": "176831012360626", 
+          "name": "Professional Services"
+        }
+      ], 
+      "location": {
+        "street": "大安區敦化南路二段59號1樓", 
+        "city": "Taipei", 
+        "state": "", 
+        "country": "Taiwan", 
+        "zip": "106", 
+        "latitude": 25.031014797001, 
+        "longitude": 121.54883794807
+      }, 
+      "name": "Starbucks Coffee統一星巴克", 
+      "id": "196042350406574"
+    }, 
+    {
+      "category": "Local business", 
+      "category_list": [
+        {
+          "id": "200600219953504", 
+          "name": "Shopping & Retail"
+        }, 
+        {
+          "id": "128673187201735", 
+          "name": "Coffee Shop"
+        }
+      ], 
+      "location": {
+        "street": "台北市大安區復興南路一段135巷9號 (SOGO百貨忠孝館後門對面)", 
+        "city": "Taipei", 
+        "state": "", 
+        "country": "Taiwan", 
+        "zip": "106", 
+        "latitude": 25.042416769689, 
+        "longitude": 121.54472644375
+      }, 
+      "name": "Starbucks 復安門市", 
+      "id": "203713122972407"
+    }, 
+    {
+      "category": "Local business", 
+      "category_list": [
+        {
+          "id": "128673187201735", 
+          "name": "Coffee Shop"
+        }
+      ], 
+      "location": {
+        "street": "", 
+        "city": "Taipei", 
+        "state": "", 
+        "country": "Taiwan", 
+        "zip": "106", 
+        "latitude": 25.041118566044, 
+        "longitude": 121.54808170373
+      }, 
+      "name": "Starbucks Coffee統一星巴克", 
+      "id": "163938803653467"
+    }, 
+    {
+      "category": "Local business", 
+      "category_list": [
+        {
+          "id": "128673187201735", 
+          "name": "Coffee Shop"
+        }
+      ], 
+      "location": {
+        "street": "", 
+        "city": "Taipei", 
+        "state": "", 
+        "country": "Taiwan", 
+        "zip": "106", 
+        "latitude": 25.041545670888, 
+        "longitude": 121.55149130775
+      }, 
+      "name": "Starbucks星巴克統領門市", 
+      "id": "248778478552643"
+    }, 
+    {
+      "category": "Local business", 
+      "category_list": [
+        {
+          "id": "128673187201735", 
+          "name": "Coffee Shop"
+        }
+      ], 
+      "location": {
+        "street": "台北市松山區復興南路一段39號", 
+        "city": "Taipei", 
+        "state": "", 
+        "country": "Taiwan", 
+        "zip": "", 
+        "latitude": 25.0458814918, 
+        "longitude": 121.544478088
+      }, 
+      "name": "Starbucks 星巴克 (微風門市)", 
+      "id": "371021629607559"
+    }, 
+    {
+      "category": "Local business", 
+      "category_list": [
+        {
+          "id": "2500", 
+          "name": "Local Business"
+        }
+      ], 
+      "location": {
+        "street": "", 
+        "city": "Taipei", 
+        "state": "", 
+        "country": "Taiwan", 
+        "zip": "", 
+        "latitude": 25.04139, 
+        "longitude": 121.54883
+      }, 
+      "name": "Starbucks Dunan", 
+      "id": "114852818606271"
+    }, 
+    {
+      "category": "Local business", 
+      "category_list": [
+        {
+          "id": "128673187201735", 
+          "name": "Coffee Shop"
+        }
+      ], 
+      "location": {
+        "street": "", 
+        "city": "Taipei", 
+        "state": "", 
+        "country": "Taiwan", 
+        "zip": "106", 
+        "latitude": 25.0416183252, 
+        "longitude": 121.548400939
+      }, 
+      "name": "Starbucks 同領門市", 
+      "id": "333112530099899"
+    }, 
+    {
+      "category": "Local business", 
+      "category_list": [
+        {
+          "id": "128673187201735", 
+          "name": "Coffee Shop"
+        }
+      ], 
+      "location": {
+        "street": "台北市大安區復興南路一段323號1樓(大安捷運站出口正對面)", 
+        "city": "Taipei", 
+        "state": "", 
+        "country": "Taiwan", 
+        "zip": "106", 
+        "latitude": 25.033470435761, 
+        "longitude": 121.54359488012
+      }, 
+      "name": "Starbucks Coffee 興南門市 (Xing Nan)", 
+      "id": "193331744024846"
+    }, 
+    {
+      "category": "Local business", 
+      "category_list": [
+        {
+          "id": "128673187201735", 
+          "name": "Coffee Shop"
+        }
+      ], 
+      "location": {
+        "street": "", 
+        "city": "Taipei", 
+        "state": "", 
+        "country": "Taiwan", 
+        "zip": "106", 
+        "latitude": 25.0381057423, 
+        "longitude": 121.555704336
+      }, 
+      "name": "Starbucks 星巴克 (仁愛門市)", 
+      "id": "369568523091756"
+    }, 
+    {
+      "category": "Local business", 
+      "category_list": [
+        {
+          "id": "128673187201735", 
+          "name": "Coffee Shop"
+        }
+      ], 
+      "location": {
+        "street": "", 
+        "city": "Taipei", 
+        "state": "", 
+        "country": "Taiwan", 
+        "zip": "106", 
+        "latitude": 25.0422667891, 
+        "longitude": 121.548487414
+      }, 
+      "name": "Starbucks 忠孝店", 
+      "id": "221463321198634"
+    }, 
+    {
+      "category": "Local business", 
+      "category_list": [
+        {
+          "id": "2500", 
+          "name": "Local Business"
+        }
+      ], 
+      "location": {
+        "street": "", 
+        "city": "Taipei", 
+        "state": "", 
+        "country": "Taiwan", 
+        "zip": "106", 
+        "latitude": 25.0337513836, 
+        "longitude": 121.547956068
+      }, 
+      "name": "Starbucks Coffee", 
+      "id": "423681750989326"
+    }, 
+    {
+      "category": "Local business", 
+      "category_list": [
+        {
+          "id": "128673187201735", 
+          "name": "Coffee Shop"
+        }
+      ], 
+      "location": {
+        "street": "", 
+        "city": "Taipei", 
+        "state": "", 
+        "country": "Taiwan", 
+        "zip": "", 
+        "latitude": 25.0402900104, 
+        "longitude": 121.552919938
+      }, 
+      "name": "@101 35F Starbucks", 
+      "id": "205896462797727"
+    }, 
+    {
+      "category": "Local business", 
+      "category_list": [
+        {
+          "id": "128673187201735", 
+          "name": "Coffee Shop"
+        }
+      ], 
+      "location": {
+        "street": "", 
+        "city": "Taipei", 
+        "state": "", 
+        "country": "Taiwan", 
+        "zip": "106", 
+        "latitude": 25.0424303309, 
+        "longitude": 121.544783263
+      }, 
+      "name": "Sogo Starbucks", 
+      "id": "433913313329596"
+    }, 
+    {
+      "category": "Local business", 
+      "category_list": [
+        {
+          "id": "128673187201735", 
+          "name": "Coffee Shop"
+        }
+      ], 
+      "location": {
+        "street": "", 
+        "city": "Taipei", 
+        "state": "", 
+        "country": "Taiwan", 
+        "zip": "106", 
+        "latitude": 25.0417086215, 
+        "longitude": 121.551442206
+      }, 
+      "name": "Starbucks", 
+      "id": "290298171023966"
+    }, 
+    {
+      "category": "Local business", 
+      "category_list": [
+        {
+          "id": "128673187201735", 
+          "name": "Coffee Shop"
+        }
+      ], 
+      "location": {
+        "street": "", 
+        "city": "Taipei", 
+        "state": "", 
+        "country": "Taiwan", 
+        "zip": "106", 
+        "latitude": 25.0424116114, 
+        "longitude": 121.549702402
+      }, 
+      "name": "Starbucks DunHua", 
+      "id": "197355983625348"
+    }, 
+    {
+      "category": "Local business", 
+      "category_list": [
+        {
+          "id": "128673187201735", 
+          "name": "Coffee Shop"
+        }
+      ], 
+      "location": {
+        "street": "", 
+        "city": "Taipei", 
+        "state": "", 
+        "country": "Taiwan", 
+        "zip": "106", 
+        "latitude": 25.0415334501, 
+        "longitude": 121.543456472
+      }, 
+      "name": "Starbucks崇興門市", 
+      "id": "101700609913949"
+    }, 
+    {
+      "category": "Local business", 
+      "category_list": [
+        {
+          "id": "197871390225897", 
+          "name": "Cafe"
+        }, 
+        {
+          "id": "128673187201735", 
+          "name": "Coffee Shop"
+        }
+      ], 
+      "location": {
+        "street": "正義北路", 
+        "city": "Taipei", 
+        "state": "", 
+        "country": "Taiwan", 
+        "zip": "", 
+        "latitude": 25.042524912379, 
+        "longitude": 121.5564225155
+      }, 
+      "name": "Starbucks", 
+      "id": "180233555322405"
+    }, 
+    {
+      "category": "Local business", 
+      "category_list": [
+        {
+          "id": "2500", 
+          "name": "Local Business"
+        }
+      ], 
+      "location": {
+        "street": "", 
+        "city": "Taipei", 
+        "state": "", 
+        "country": "Taiwan", 
+        "zip": "106", 
+        "latitude": 25.04259639, 
+        "longitude": 121.55109167
+      }, 
+      "name": "Starbucks 誠品", 
+      "id": "133661420069149"
+    }, 
+    {
+      "category": "Local business", 
+      "category_list": [
+        {
+          "id": "128673187201735", 
+          "name": "Coffee Shop"
+        }
+      ], 
+      "location": {
+        "street": "", 
+        "city": "Taipei", 
+        "state": "", 
+        "country": "Taiwan", 
+        "zip": "106", 
+        "latitude": 25.0423644373, 
+        "longitude": 121.544813882
+      }, 
+      "name": "Starbucks復興店", 
+      "id": "212536635424557"
+    }, 
+    {
+      "category": "Local business", 
+      "category_list": [
+        {
+          "id": "2500", 
+          "name": "Local Business"
+        }
+      ], 
+      "location": {
+        "street": "", 
+        "city": "Taipei", 
+        "state": "", 
+        "country": "Taiwan", 
+        "zip": "", 
+        "latitude": 25.0423803, 
+        "longitude": 121.54476935
+      }, 
+      "name": "Starbucks復安", 
+      "id": "195473527239348"
+    }, 
+    {
+      "category": "Local business", 
+      "category_list": [
+        {
+          "id": "128673187201735", 
+          "name": "Coffee Shop"
+        }
+      ], 
+      "location": {
+        "street": "", 
+        "city": "Taipei", 
+        "state": "", 
+        "country": "Taiwan", 
+        "zip": "106", 
+        "latitude": 25.0424185339, 
+        "longitude": 121.544866603
+      }, 
+      "name": "Starbucks崇光門市", 
+      "id": "168275343223461"
+    }, 
+    {
+      "category": "Local business", 
+      "category_list": [
+        {
+          "id": "200600219953504", 
+          "name": "Shopping & Retail"
+        }, 
+        {
+          "id": "128673187201735", 
+          "name": "Coffee Shop"
+        }
+      ], 
+      "location": {
+        "street": "台北市忠孝東路四段45號B1", 
+        "city": "Taipei", 
+        "state": "", 
+        "country": "Taiwan", 
+        "zip": "106", 
+        "latitude": 25.0422747828, 
+        "longitude": 121.544919289
+      }, 
+      "name": "忠孝Sogo B1 Starbucks", 
+      "id": "208934652463517"
+    }, 
+    {
+      "category": "Local business", 
+      "category_list": [
+        {
+          "id": "128673187201735", 
+          "name": "Coffee Shop"
+        }
+      ], 
+      "location": {
+        "street": "", 
+        "city": "Taipei", 
+        "state": "", 
+        "country": "Taiwan", 
+        "zip": "106", 
+        "latitude": 25.0415776427, 
+        "longitude": 121.543448263
+      }, 
+      "name": "Starbucks-SOGO BR4", 
+      "id": "206535436036428"
+    }, 
+    {
+      "category": "Local business", 
+      "category_list": [
+        {
+          "id": "128673187201735", 
+          "name": "Coffee Shop"
+        }
+      ], 
+      "location": {
+        "street": "", 
+        "city": "Taipei", 
+        "state": "", 
+        "country": "Taiwan", 
+        "zip": "106", 
+        "latitude": 25.0425093806, 
+        "longitude": 121.556336781
+      }, 
+      "name": "國父紀念館-starbucks coffee", 
+      "id": "406530892695414"
+    }, 
+    {
+      "category": "Local business", 
+      "category_list": [
+        {
+          "id": "2500", 
+          "name": "Local Business"
+        }
+      ], 
+      "location": {
+        "street": "", 
+        "city": "Taipei", 
+        "state": "", 
+        "country": "Taiwan", 
+        "zip": "", 
+        "latitude": 25.033212498239, 
+        "longitude": 121.54378723089
+      }, 
+      "name": "Starbucks 大安店", 
+      "id": "264957966939373"
+    }, 
+    {
+      "category": "Local business", 
+      "category_list": [
+        {
+          "id": "128673187201735", 
+          "name": "Coffee Shop"
+        }
+      ], 
+      "location": {
+        "street": "", 
+        "city": "Taipei", 
+        "state": "", 
+        "country": "Taiwan", 
+        "zip": "", 
+        "latitude": 25.0445528262, 
+        "longitude": 121.543218398
+      }, 
+      "name": "Starbucks Coffee 統一星巴克西門門巿", 
+      "id": "158919447510575"
+    }, 
+    {
+      "category": "Local business", 
+      "category_list": [
+        {
+          "id": "128673187201735", 
+          "name": "Coffee Shop"
+        }
+      ], 
+      "location": {
+        "street": "", 
+        "city": "Taipei", 
+        "state": "", 
+        "country": "Taiwan", 
+        "zip": "106", 
+        "latitude": 25.0333337007, 
+        "longitude": 121.54368196
+      }, 
+      "name": "統一星巴克 Starbucks - 興南門市", 
+      "id": "325648214164275"
+    }, 
+    {
+      "category": "Local business", 
+      "category_list": [
+        {
+          "id": "197871390225897", 
+          "name": "Cafe"
+        }, 
+        {
+          "id": "128673187201735", 
+          "name": "Coffee Shop"
+        }
+      ], 
+      "location": {
+        "street": "", 
+        "city": "Taipei", 
+        "state": "", 
+        "country": "Taiwan", 
+        "zip": "106", 
+        "latitude": 25.041438011515, 
+        "longitude": 121.54367911545
+      }, 
+      "name": "Br4 「 Starbucks」", 
+      "id": "141663095901326"
+    }, 
+    {
+      "category": "Local business", 
+      "category_list": [
+        {
+          "id": "197871390225897", 
+          "name": "Cafe"
+        }
+      ], 
+      "location": {
+        "street": "台北市大安區文昌街209號", 
+        "city": "Taipei", 
+        "state": "", 
+        "country": "Taiwan", 
+        "zip": "106", 
+        "latitude": 25.0325235803, 
+        "longitude": 121.554347363
+      }, 
+      "name": "Starbucks Coffee 統一星巴克 - 通化門市", 
+      "id": "464794513617497"
+    }, 
+    {
+      "category": "Local business", 
+      "category_list": [
+        {
+          "id": "2500", 
+          "name": "Local Business"
+        }
+      ], 
+      "location": {
+        "street": "", 
+        "city": "Taipei", 
+        "state": "", 
+        "country": "Taiwan", 
+        "zip": "106", 
+        "latitude": 25.0424516429, 
+        "longitude": 121.556358335
+      }, 
+      "name": "Starbucks華視", 
+      "id": "354734667881785"
+    }, 
+    {
+      "category": "Local business", 
+      "category_list": [
+        {
+          "id": "128673187201735", 
+          "name": "Coffee Shop"
+        }
+      ], 
+      "location": {
+        "street": "", 
+        "city": "Taipei", 
+        "state": "", 
+        "country": "Taiwan", 
+        "zip": "105", 
+        "latitude": 25.0457718833, 
+        "longitude": 121.544552394
+      }, 
+      "name": "Starbucks Breeze", 
+      "id": "190722597617069"
+    }, 
+    {
+      "category": "Local business", 
+      "category_list": [
+        {
+          "id": "128673187201735", 
+          "name": "Coffee Shop"
+        }
+      ], 
+      "location": {
+        "street": "台北市松山區復興南路一段39號G樓", 
+        "city": "Taipei", 
+        "state": "", 
+        "country": "Taiwan", 
+        "zip": "105", 
+        "latitude": 25.045842032263, 
+        "longitude": 121.54451398885
+      }, 
+      "name": "Starbucks 微風門市", 
+      "id": "135832843150271"
+    }, 
+    {
+      "category": "Local business", 
+      "category_list": [
+        {
+          "id": "128673187201735", 
+          "name": "Coffee Shop"
+        }
+      ], 
+      "location": {
+        "street": "", 
+        "city": "Taipei", 
+        "state": "", 
+        "country": "Taiwan", 
+        "zip": "106", 
+        "latitude": 25.042472138, 
+        "longitude": 121.544645586
+      }, 
+      "name": "Starbucks nearby SOGO Dept. Store", 
+      "id": "173850749316973"
+    }, 
+    {
+      "category": "Local business", 
+      "category_list": [
+        {
+          "id": "128673187201735", 
+          "name": "Coffee Shop"
+        }
+      ], 
+      "location": {
+        "street": "", 
+        "city": "Taipei", 
+        "state": "", 
+        "country": "Taiwan", 
+        "zip": "106", 
+        "latitude": 25.037761322295, 
+        "longitude": 121.55480344283
+      }, 
+      "name": "Starbucks仁愛門市", 
+      "id": "166040753446109"
+    }, 
+    {
+      "category": "Local business", 
+      "category_list": [
+        {
+          "id": "128673187201735", 
+          "name": "Coffee Shop"
+        }
+      ], 
+      "location": {
+        "street": "", 
+        "city": "Taipei", 
+        "state": "", 
+        "country": "Taiwan", 
+        "zip": "106", 
+        "latitude": 25.033464256456, 
+        "longitude": 121.54357810869
+      }, 
+      "name": "Starbucks", 
+      "id": "191835434183143"
+    }, 
+    {
+      "category": "Local business", 
+      "category_list": [
+        {
+          "id": "2500", 
+          "name": "Local Business"
+        }
+      ], 
+      "location": {
+        "street": "", 
+        "city": "Taipei", 
+        "state": "", 
+        "country": "Taiwan", 
+        "zip": "106", 
+        "latitude": 25.0414810704, 
+        "longitude": 121.551500066
+      }, 
+      "name": "Starbuck Coffee", 
+      "id": "359110540808171"
+    }
+  ]
+}
